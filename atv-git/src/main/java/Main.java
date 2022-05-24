@@ -5,6 +5,7 @@ public class Main {
 
 
         Francisco francisco = new Francisco(24,858);
+        FranciscoPrintName.print();
         System.out.println(francisco.result);
     }
 }
